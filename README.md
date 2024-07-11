@@ -76,7 +76,7 @@ The project requires the following Python libraries:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]([link](https://github.com/Adhish78/python-retail-sales-analysis/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Adhish78/python-retail-sales-analysis/blob/main/LICENSE) file for details.
 
 
 ## Acknowledgments
